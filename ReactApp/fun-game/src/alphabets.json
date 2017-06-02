@@ -1,0 +1,30 @@
+[
+	{
+		"letter": "M",
+		"image": "http://i.imgur.com/rqBzDjz.png",
+		"word": "Mickey Mouse",
+		"letterSound": "https://a.clyp.it/ogzcw4br.mp3",
+		"wordSound": "http://chirb.it/0Nkv8J"
+	},
+	{
+		"letter": "D",
+		"image": "http://i.imgur.com/NePjwWI.png",
+		"word": "Donald Duck",
+		"letterSound": "https://a.clyp.it/rdwccshr.mp3",
+		"wordSound": "https://clyp.it/rj0r1ch3"
+	},
+	{
+		"letter": "P",
+		"image": "http://i.imgur.com/QFGK9oP.png",
+		"word": "Popeye",
+		"letterSound": "https://a.clyp.it/mbrc0cnk.mp3",
+		"wordSound": "../sounds/popoye.mp3"
+	},
+	{
+		"letter": "S",
+		"image": "http://i.imgur.com/HDYyCFk.png",
+		"word": "Scooby Doo",
+		"letterSound": "https://a.clyp.it/jjucvgut.mp3",
+		"wordSound": "../sounds/Scooby.mp3"
+	}
+]
